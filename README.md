@@ -1,5 +1,3 @@
-# DASS Assignment 3
-
 ## The Game
 This is a terminal implementation of the classic brick breaking game.  
 To start the game, run 
